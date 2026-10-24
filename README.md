@@ -1,4 +1,26 @@
-# React + Vite
+# LifeOS
+
+[Open LifeOS](https://srajansingh099.github.io/LifeOS/)
+
+LifeOS is a responsive web app. Open the link above in a browser on desktop or mobile.
+
+## Run locally
+
+```sh
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite. To open the local development server on a
+phone, run it on a computer on the same Wi-Fi network and visit that computer's
+local network address from the phone.
+
+## Deployment
+
+The `master` branch is published to GitHub Pages by the workflow in
+`.github/workflows/deploy.yml`. After the first push, select **Settings >
+Pages > Build and deployment > Source > GitHub Actions** in the repository.
+Subsequent pushes to `master` publish the app automatically.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
