@@ -2,6 +2,8 @@
 
 [Open LifeOS](https://srajansingh099.github.io/LifeOS/)
 
+[![Deploy to GitHub Pages](https://github.com/Srajansingh099/LifeOS/actions/workflows/deploy.yml/badge.svg)](https://github.com/Srajansingh099/LifeOS/actions/workflows/deploy.yml)
+
 LifeOS is a responsive web app. Open the link above in a browser on desktop or mobile.
 
 ## Run locally
